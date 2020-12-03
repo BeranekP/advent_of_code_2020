@@ -37,4 +37,4 @@ Using the above example again, the three entries that sum to `2020` are `979, 36
 
 In your expense report, **what is the product of the three entries that sum to 2020?**
 
-_Solution: `4845669`._
+_Solution: `116724144`._
