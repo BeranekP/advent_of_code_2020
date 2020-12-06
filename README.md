@@ -9,3 +9,4 @@ Solutions in Python:
 - [Day 3: Toboggan Trajectory](/3/)
 - [Day 4: Passport Processing](/4/)
 - [Day 5: Binary Boarding](/5/)
+- [Day 6: Custom Customs](/5/)
